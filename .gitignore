@@ -1,0 +1,9 @@
+node_modules
+.temp
+.cache
+.idea
+.DS_Store
+**/*/target
+.vscode
+.history
+.venv
